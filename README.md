@@ -1,4 +1,6 @@
-Hello, my name is Peter Kaminski, and this is a knowledgebase of Music I Love.
+# Music I Love, by Peter Kaminski
+
+Hello, my name is Peter Kaminski, and this is a knowledgebase of **Music I Love**.
 
 Click the "All Pages" link above to navigate into the knowledgebase. NOTE: all of the links from "All Pages" will work, but many links from any regular page will go to the "Sorry, Page Doesn't Exist Yet" page. This is because the knowledgebase is still under construction, but the site builder I'm using doesn't handle that well yet. It will get better when the site builder learns to flag links to pages that don't exist better.
 
