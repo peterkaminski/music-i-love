@@ -8,3 +8,7 @@
 # Obsidian.md
 .obsidian/*
 !.obsidian/README.md
+
+# Massive Wiki Builder
+.massivewikibuilder/output/*
+.massivewikibuilder/venv/*
