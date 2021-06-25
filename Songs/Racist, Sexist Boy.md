@@ -1,5 +1,5 @@
 # Racist, Sexist Boy
-#punk 
+ #punk 
 
 ## Artists
 - [[The Linda Lindas]]

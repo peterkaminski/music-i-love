@@ -1,6 +1,6 @@
 ## Tags
 
-#FunkBass
+ #FunkBass
 
 ## Musicians
 
