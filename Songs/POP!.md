@@ -28,7 +28,7 @@ The vocal sits in a higher, lighter register than most TWICE material. That's a 
 
 ### Why the Chewing Gum resemblance makes sense
 
-Pete's instinct to hear [[Chewing Gum]] by [[Annie]] (Norwegian electropop, 2004, *Anniemal*, produced by [[Röyksopp]]) is right — they sit in the same lineage:
+Pete's instinct to hear [[Chewing Gum]] by [[Annie]] (Norwegian electropop, 2004, *Anniemal*, produced by [[Richard X]]) is right — they sit in the same lineage:
 
 - **Candy-metaphor title** — both organized around a sticky-sweet object as central conceit
 - **Onomatopoeic / sound-as-hook** — Chewing Gum has its smacking synth figure; POP! has its literal pop
