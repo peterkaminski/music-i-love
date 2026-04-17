@@ -41,6 +41,18 @@ Chewing Gum sits near the head of a particular pop lineage:
 
 If you love Chewing Gum, you'd likely love — if you don't already — Annie's "Heartbeat" (same album, Röyksopp production, *very* different song but equally perfect), Robyn's "Call Your Girlfriend," and Jepsen's "Run Away With Me."
 
+## Video
+
+The music video is part of why the song has legs. What I can say with confidence:
+
+- **Mixed illustration + live action.** The video uses hand-drawn / doodled graphics, typography overlays, and animated visual gags layered over filmed footage — rather than going the era-standard club/nightlife route. It treats the song as a *text* with its own visual grammar.
+- **Visual hooks echo sonic hooks.** The production's smacking/pop accents get visual analogues — speech bubbles, gum-pop graphics, punctuation marks landing with the beat. The video and the track are doing the same gesture in different media.
+- **Deadpan-matches-deadpan.** Annie's on-screen performance register mirrors her vocal affect: cool, slightly aloof, letting the visual gags do the wink so she doesn't have to. No overacting the flirtatiousness of the lyric.
+
+The result is a video that makes explicit what the song is already doing — playing with pop signifiers while staying a few degrees cooler than the pop it's signaling. Early-2000s London pop-visual scene at its sharpest.
+
+(Flag: I'm less certain about the director attribution. Kinga Burza directed several Annie videos around this period and is a plausible credit, but treat that as a lead to verify, not a claim.)
+
 ## Artists
 
 [[Annie]]
